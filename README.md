@@ -76,4 +76,3 @@ Ridge regresyonu modeliniz test setinde %77.53 kadar varyansı açıklayarak gay
 Polinomsal özellikler ekleyerek modelin varyansı açıklama kabiliyetini önemli ölçüde artırdınız (eğitim verisindeki yüksek R² skoru bunu gösteriyor).
 Ridge regularizasyonu (alpha=0.1), aşırı öğrenmeyi (overfitting) engellemeye yardımcı oldu, çünkü test seti üzerinde de hala iyi bir performans sergiledi.
 
-Bu `README.md` dosyası, projenizin genel yapısını, kullanılan yöntemleri, elde edilen sonuçları ve görselleştirmeleri açık bir şekilde belirtir. Ayrıca proje hakkında daha fazla bilgi sağlayarak başkalarının projeyi daha kolay anlamasını ve katkı sağlamasını kolaylaştırır.
